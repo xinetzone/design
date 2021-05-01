@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>上善若水</title>
+    <link>https://xinetzone.github.io/</link>
+    
+    <atom:link href="https://xinetzone.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>利用 AI 开发一切有意思的东西</description>
+    <pubDate>Sat, 01 May 2021 07:09:04 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://xinetzone.github.io/post/en-US/1208d1120dca.html</link>
+      <guid>https://xinetzone.github.io/post/en-US/1208d1120dca.html</guid>
+      <pubDate>Sat, 01 May 2021 07:09:04 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo server<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo generate<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class="line-numbers language-bash" data-language="bash"><code class="language-bash">$ hexo deploy<span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content:encoded>
+      
+      
+      <category domain="https://xinetzone.github.io/categories/%E6%95%99%E7%A8%8B/">教程</category>
+      
+      
+      <category domain="https://xinetzone.github.io/tags/hexo/">hexo</category>
+      
+      
+      <comments>https://xinetzone.github.io/post/en-US/1208d1120dca.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>数学符号</title>
+      <link>https://xinetzone.github.io/post/zh-CN/232a47a578a4.html</link>
+      <guid>https://xinetzone.github.io/post/zh-CN/232a47a578a4.html</guid>
+      <pubDate>Sat, 01 May 2021 07:09:04 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;数字&quot;&gt;&lt;a href=&quot;#数字&quot; class=&quot;headerlink&quot; title=&quot;数字&quot;&gt;&lt;/a&gt;数字&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;$x$：标量&lt;/li&gt;
+&lt;li&gt;$\mathbf{x}$：向量&lt;/li&gt;
+&lt;li&gt;$\mathbf{X}$：矩阵&lt;/li&gt;
+&lt;l</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="数字"><a href="#数字" class="headerlink" title="数字"></a>数字</h1><ul><li>$x$：标量</li><li>$\mathbf{x}$：向量</li><li>$\mathbf{X}$：矩阵</li><li>$\mathsf{X}$：张量</li><li>$\mathbf{I}$：单位矩阵</li><li>$x_i$, $[\mathbf{x}]_i$：向量$\mathbf{x}$第$i$个元素</li><li>$x_{ij}$, $[\mathbf{X}]_{ij}$：矩阵$\mathbf{X}$第$i$行第$j$列的元素</li></ul><div class="w3-pale-green">向量、矩阵使用 <code>\mathbf</code>，张量使用 <code>\mathsf</code>。</div><h1 id="集合论"><a href="#集合论" class="headerlink" title="集合论"></a>集合论</h1><ul><li>$\mathcal{X}$: 集合</li><li>$\mathbb{Z}$: 整数集合</li><li>$\mathbb{R}$ 实数集合</li><li>$\mathbb{R}^n$: $n$维实数向量</li><li>$\mathbb{R}^{a\times b}$: 包含$a$行和$b$列的实数矩阵</li><li>$\mathcal{A}\cup\mathcal{B}$: 集合$\mathcal{A}$和$\mathcal{B}$的并集（<code>\cup</code>）</li><li>$\mathcal{A}\cap\mathcal{B}$：集合$\mathcal{A}$和$\mathcal{B}$的交集（<code>\cap</code>）</li><li>$\mathcal{A}\setminus\mathcal{B}$：集合$\mathcal{B}$与集合$\mathcal{A}$相减（<code>\setminus</code>）</li></ul><div class="w3-pale-green">集合使用 <code>\mathbb</code>，集合族使用 <code>\mathcal</code>。</div><h1 id="函数和运算符"><a href="#函数和运算符" class="headerlink" title="函数和运算符"></a>函数和运算符</h1><ul><li>$f(\cdot)$：函数</li><li>$\log(\cdot)$：自然对数</li><li>$\exp(\cdot)$: 指数函数</li><li>$\mathbf{1}_\mathcal{X}$: 指示函数</li><li>$\mathbf{(\cdot)}^\top$: 向量或矩阵的转置</li><li>$\mathbf{X}^{-1}$: 矩阵的逆</li><li>$\odot$: 按元素相乘</li><li>$[\cdot, \cdot]$：连结</li><li>$\lvert \mathcal{X} \rvert$：集合的基数</li><li>$|\cdot|_p$: ：$L_p$ 正则</li><li>$|\cdot|$: $L_2$ 正则</li><li>$\langle \mathbf{x}, \mathbf{y} \rangle$：向量$\mathbf{x}$和$\mathbf{y}$的点积</li><li>$\sum$: 连加</li><li>$\prod$: 连乘</li><li>$\stackrel{\mathrm{def}}{=}$：定义</li><li>$\ast$: 例如，$a^{\ast}$</li></ul><h1 id="微积分"><a href="#微积分" class="headerlink" title="微积分"></a>微积分</h1><ul><li>$\frac{dy}{dx}$：$y$关于$x$的导数</li><li>$\frac{\partial y}{\partial x}$：$y$关于$x$的偏导数</li><li>$\nabla_{\mathbf{x}} y$：$y$关于$\mathbf{x}$的梯度</li><li>$\int_a^b f(x) ;dx$: $f$在$a$到$b$区间上关于$x$的定积分</li><li>$\int f(x) ;dx$: $f$关于$x$的不定积分</li></ul><h1 id="概率与信息论"><a href="#概率与信息论" class="headerlink" title="概率与信息论"></a>概率与信息论</h1><ul><li>$P(\cdot)$：概率分布</li><li>$z \sim P$: 随机变量$z$具有概率分布$P$</li><li>$P(X \mid Y)$：$X\mid Y$的条件概率</li><li>$p(x)$: 概率密度函数</li><li>$\mathbb{E}_{x} [f(x)]$: 函数$f$对$x$的数学期望</li><li>$X \perp Y$: 随机变量$X$和$Y$是独立的</li><li>$X \perp Y \mid Z$: 随机变量$X$和$Y$在给定随机变量$Z$的条件下是独立的</li><li>$\mathrm{Var}(X)$: 随机变量$X$的方差</li><li>$\sigma_X$: 随机变量$X$的标准差</li><li>$\mathrm{Cov}(X, Y)$: 随机变量$X$和$Y$的协方差</li><li>$\rho(X, Y)$: 随机变量$X$和$Y$的相关性</li><li>$H(X)$: 随机变量$X$的熵</li><li>$D_{\mathrm{KL}}(P|Q)$: $P$和$Q$的KL-散度</li></ul><h1 id="复杂度"><a href="#复杂度" class="headerlink" title="复杂度"></a>复杂度</h1><ul><li>$\mathcal{O}$：大O标记</li></ul>]]></content:encoded>
+      
+      
+      <category domain="https://xinetzone.github.io/categories/%E6%95%B0%E5%AD%A6/">数学</category>
+      
+      
+      <category domain="https://xinetzone.github.io/tags/%E6%95%B0%E5%AD%A6%E7%AC%A6%E5%8F%B7/">数学符号</category>
+      
+      
+      <comments>https://xinetzone.github.io/post/zh-CN/232a47a578a4.html#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Design 项目说明</title>
+      <link>https://xinetzone.github.io/chaos/zh-CN/d2030769b2b9.html</link>
+      <guid>https://xinetzone.github.io/chaos/zh-CN/d2030769b2b9.html</guid>
+      <pubDate>Fri, 02 Apr 2021 05:02:05 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本项目支持：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; &lt;a href=&quot;https://prismjs.com/&quot;&gt;PrismJS&lt;/a&gt; 高亮&lt;/li&gt;
+&lt;li&gt;&lt;input checked=</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>本项目支持：</p><ul><li><input checked="" disabled="" type="checkbox"> <a href="https://prismjs.com/">PrismJS</a> 高亮</li><li><input checked="" disabled="" type="checkbox"> ToDo List（待办事项），格式：</li></ul><pre class="line-numbers language-markdown" data-language="markdown"><code class="language-markdown"><span class="token list punctuation">-</span> [ ] 喝水 8 杯<span class="token list punctuation">-</span> [x] 跑步<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span></span></code></pre><ul><li><input checked="" disabled="" type="checkbox"> 支持 Katex</li></ul><p>比如：</p><pre class="line-numbers language-latx" data-language="latx"><code class="language-latx">$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$&lt;section&gt;$$x^4 = 3$$&lt;/section&gt;<span aria-hidden="true" class="line-numbers-rows"><span></span><span></span><span></span><span></span><span></span><span></span><span></span></span></code></pre><h2 id="测试上传图片"><a href="#测试上传图片" class="headerlink" title="测试上传图片"></a>测试上传图片</h2><p>上传图片使用如下格式：</p><pre class="line-numbers language-markdown" data-language="markdown"><code class="language-markdown"><span class="token url"><span class="token operator">!</span>[<span class="token content">测试图片</span>](<span class="token url">雷姆.png</span>)</span><span aria-hidden="true" class="line-numbers-rows"><span></span></span></code></pre><p>其中 <code>雷姆.png</code> 的位置在该篇文章同名目录之下，即：</p><p><img src="/design/chaos/zh-CN/d2030769b2b9/test.png" alt="文章同名目录之下存放图片"></p><p><span class="github-emoji"><span>📖</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span>显示效果：</p><p><img src="/design/chaos/zh-CN/d2030769b2b9/%E9%9B%B7%E5%A7%86.png" alt="测试图片"></p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>https://xinetzone.github.io/chaos/zh-CN/d2030769b2b9.html#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
