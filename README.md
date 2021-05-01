@@ -1,1 +1,5 @@
 # design
+
+[![GitHub issues](https://img.shields.io/github/issues/xinetzone/design)](https://github.com/xinetzone/design/issues) [![GitHub forks](https://img.shields.io/github/forks/xinetzone/design)](https://github.com/xinetzone/design/network) [![GitHub stars](https://img.shields.io/github/stars/xinetzone/design)](https://github.com/xinetzone/design/stargazers) [![GitHub license](https://img.shields.io/github/license/xinetzone/design)](https://github.com/xinetzone/design/blob/master/LICENSE)  ![repo size](https://img.shields.io/github/repo-size/xinetzone/design.svg) [![contributors](https://img.shields.io/github/contributors/xinetzone/design.svg)](https://github.com/xinetzone/design/graphs/contributors) [![watcher](https://img.shields.io/github/watchers/xinetzone/design.svg)](https://github.com/xinetzone/design/watchers)
+
+使用说明见 [help](help.md)。
